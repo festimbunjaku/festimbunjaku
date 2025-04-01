@@ -43,10 +43,6 @@ A comprehensive education tracking system designed to monitor student progress a
 Platform for managing educational courses, enrollments, and content delivery.
 - **Tech Stack:** Laravel, Inertia.js, React, Tailwind CSS
 
-### [Rent-a-Car](https://github.com/festimbunjaku/Rent-a-Car)
-Car rental management system with booking, inventory, and customer management features.
-- **Tech Stack:** Laravel, MySQL
-
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
