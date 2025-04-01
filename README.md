@@ -11,6 +11,7 @@ I'm a Full Stack Developer specializing in Laravel and React applications. With 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,9 +47,6 @@ Platform for managing educational courses, enrollments, and content delivery.
 Car rental management system with booking, inventory, and customer management features.
 - **Tech Stack:** Laravel, MySQL
 
-### [Development Standards](https://github.com/festimbunjaku/course-ms-dev-rules)
-Repository documenting development standards and best practices for Laravel 12, Inertia.js 2.0, TypeScript, and React.
-- **Focus:** Coding standards, best practices, workflow optimization
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
