@@ -39,9 +39,7 @@ Modern portfolio website built with React, Vite, and TailwindCSS featuring dark 
 A comprehensive education tracking system designed to monitor student progress and performance metrics.
 - **Tech Stack:** Laravel, Inertia.js, React, TypeScript
 
-### [Course Management System](https://github.com/festimbunjaku/CourseMS)
-Platform for managing educational courses, enrollments, and content delivery.
-- **Tech Stack:** Laravel, Inertia.js, React, Tailwind CSS
+
 
 
 ## 📫 Let's Connect
